@@ -1,8 +1,10 @@
 # hackgpt
 
- arashhacker32
  created by arashhacker32
- @arashhacker32
+ / MY ID in telegram : @arashhacker32
+
+دوستان دقت کنید ، باید برای ران شدن خط 16 رو ادیت بزنید.
+
 Welcome to HackGPT, a powerful and customizable AI chatbot interface designed specifically for developers. With a ChatGPT-like experience, HackGPT brings a host of key features to enhance your hacking capabilities and empower your development process.
 
 [![HackGPT Demo](images/demo.gif)](./images/demo.gif)
